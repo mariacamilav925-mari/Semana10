@@ -1,0 +1,16 @@
+pregunta 8 
+
+respuesta
+
+¿Qué 2 tareas haría primero?
+1. Como ciudadano quiero registrar una incidencia en mi barrio, para dejar evidencia del problema.
+2. Como coordinador quiero recibir alertas por Telegram al llegar nuevos casos, para revisarlos rápidamente.
+
+¿Por qué son las más importantes?
+Son la base del sistema: sin poder registrar reportes no hay información que gestionar, y sin recibir alertas no se puede atender los casos a tiempo. Resuelven la necesidad principal de la comunidad de comunicar y dar seguimiento a sus problemas.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Definición de terminado:
+- Funciona correctamente para el usuario.
+- Fue probada y no presenta errores básicos.
+- Quedó documentada y guardada en el repositorio.
