@@ -1,0 +1,12 @@
+pregunta 7 
+respuesta
+
+1. Como ciudadano quiero registrar una incidencia o problema del barrio, para dejar evidencia clara y detallada del caso.
+
+2. Como ciudadano quiero ver el estado de mi reporte, para saber en qué etapa se encuentra su atención.
+
+3. Como coordinador de veeduría quiero recibir una notificación por Telegram al llegar un nuevo reporte, para revisarlo y asignarlo rápido.
+
+4. Como miembro del equipo quiero consultar la lista de todos los reportes, para hacer seguimiento y organizar las acciones.
+
+5. Como administrador quiero marcar un caso como resuelto, para mantener actualizado el historial de la comunidad.
