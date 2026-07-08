@@ -1,0 +1,12 @@
+pregunta9
+
+respuesta
+
+¿Qué evento activa el flujo?
+Cuando se registra un nuevo reporte o incidencia en el sistema de veeduría.
+
+¿Qué mensaje se enviaría a Telegram?
+" Nuevo reporte ingresado. Sector: [zona]. Tipo de problema: [asunto]. Descripción breve: [resumen]. Pendiente de revisión."
+
+¿Qué información no debería enviarse por seguridad?
+No se deben compartir documentos de identidad, teléfonos completos, direcciones exactas, claves ni cualquier dato personal sensible.
